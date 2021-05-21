@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Proiecte\Projects\Piatra, Foarfeca, Hartie!\Piatra, Foarfeca, Hartie!\Source.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Piatra, Foarfeca, Hartie!.vcxproj -> D:\Proiecte\Projects\Piatra, Foarfeca, Hartie!\Debug\Piatra, Foarfeca, Hartie!.exe
